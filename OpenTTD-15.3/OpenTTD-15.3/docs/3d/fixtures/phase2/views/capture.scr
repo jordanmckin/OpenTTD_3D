@@ -1,0 +1,4 @@
+renderer_3d check
+screenshot viewport phase2-hills
+save phase2-hills
+schedule on-next-calendar-month scripts/exit.scr

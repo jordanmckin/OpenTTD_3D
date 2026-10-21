@@ -1,0 +1,7 @@
+renderer_3d visibility 1 hidden
+renderer_3d visibility 2 hidden
+renderer_3d visibility 3 hidden
+renderer_3d visibility 4 hidden
+renderer_3d visibility 5 hidden
+renderer_3d check
+schedule on-next-calendar-month scripts/restored.scr

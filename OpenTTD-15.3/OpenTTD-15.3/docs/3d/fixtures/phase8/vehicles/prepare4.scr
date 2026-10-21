@@ -1,0 +1,2 @@
+renderer_3d camera 215 80
+schedule on-next-calendar-month scripts/capture3.scr

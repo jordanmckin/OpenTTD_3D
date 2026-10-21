@@ -1,0 +1,2 @@
+renderer_3d clickrail 640 450
+schedule on-next-calendar-month scripts/built.scr

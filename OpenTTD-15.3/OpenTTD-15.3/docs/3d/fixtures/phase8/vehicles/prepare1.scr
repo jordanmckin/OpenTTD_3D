@@ -1,0 +1,2 @@
+renderer_3d follow 9
+schedule on-next-calendar-month scripts/prepare2.scr

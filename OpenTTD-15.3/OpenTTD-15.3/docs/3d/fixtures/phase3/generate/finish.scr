@@ -1,0 +1,4 @@
+renderer_3d fastforward off
+pause
+save phase3-generated
+screenshot phase3-generated

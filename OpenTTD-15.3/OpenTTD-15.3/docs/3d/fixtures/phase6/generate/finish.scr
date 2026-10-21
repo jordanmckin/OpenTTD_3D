@@ -1,0 +1,4 @@
+save phase6-coverage
+renderer_3d check
+renderer_3d coverage
+schedule on-next-calendar-month scripts/capture.scr

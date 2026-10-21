@@ -1,0 +1,2 @@
+scrollto instant 43 27
+schedule on-next-calendar-month scripts/capture3.scr

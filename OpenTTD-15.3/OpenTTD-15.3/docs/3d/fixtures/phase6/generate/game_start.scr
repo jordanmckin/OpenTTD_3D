@@ -1,0 +1,7 @@
+renderer_3d on
+scrollto instant 32 32
+zoomto 3
+start_ai Coverage3DFixture
+setting gui.fast_forward_speed_limit 1000
+renderer_3d fastforward on
+schedule on-next-calendar-month scripts/month.scr

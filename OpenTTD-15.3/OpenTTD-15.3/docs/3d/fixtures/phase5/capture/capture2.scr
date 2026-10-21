@@ -1,0 +1,3 @@
+screenshot phase5-power
+renderer_3d assets
+schedule on-next-calendar-month scripts/setup3.scr

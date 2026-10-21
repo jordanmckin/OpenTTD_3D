@@ -1,0 +1,4 @@
+screenshot phase8-truck-b
+renderer_3d camera 90 100
+scrollto instant 24 38
+schedule on-next-calendar-month scripts/capture3.scr

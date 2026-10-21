@@ -1,0 +1,3 @@
+scrollto instant 29 33
+zoomto 2
+schedule on-next-calendar-month scripts/capture4.scr

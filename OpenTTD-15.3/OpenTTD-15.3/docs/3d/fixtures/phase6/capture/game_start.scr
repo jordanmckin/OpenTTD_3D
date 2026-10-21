@@ -1,0 +1,10 @@
+setting gui.show_finances false
+unpause
+setting gui.fast_forward_speed_limit 2000
+renderer_3d fastforward on
+renderer_3d on
+renderer_3d camera 0 100
+scrollto instant 10 16
+zoomto 1
+renderer_3d check
+schedule on-next-calendar-month scripts/transparent.scr

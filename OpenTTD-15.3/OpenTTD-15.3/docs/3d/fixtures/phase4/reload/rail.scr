@@ -1,0 +1,4 @@
+screenshot phase4-reloaded
+scrollto instant 20 32
+zoomto 1
+schedule on-next-calendar-month scripts/tunnel.scr

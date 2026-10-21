@@ -1,0 +1,10 @@
+script .runtime/phase2-review/console.log
+unpause
+renderer_3d inspect 32 32
+scrollto instant 32 32
+zoomto 2
+renderer_3d on
+renderer_3d camera 90 65
+renderer_3d wireframe on
+fps_wnd
+schedule on-next-calendar-month scripts/wire.scr

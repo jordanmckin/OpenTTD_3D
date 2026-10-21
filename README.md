@@ -33,7 +33,7 @@
 
 ## Download and play
 
-1. Download **[OpenTTD-3d-alpha1-01-windows-x64.zip](OpenTTD-3d-alpha1-01-windows-x64.zip)**. Click it, then the download button.
+1. Open **[Releases](https://github.com/jordanmckin/OpenTTD_3D/releases)** and download a **Windows x64 game ZIP** from the release assets. The `Source code` downloads are for building the game yourself.
 2. Unzip the whole folder somewhere you can write to, such as your Desktop or Documents. Program Files won't work.
 3. Double-click **`Play OpenTTD 3D.cmd`**.
 4. Start a new temperate game, or load one of your saves.
@@ -41,6 +41,12 @@
 It runs from its own folder and keeps its own settings and saves, so it won't touch your normal OpenTTD install.
 
 **Requirements:** Windows 10 or 11 (64-bit) and a graphics card with OpenGL support.
+
+## Source code and building
+
+This repository contains the modified OpenTTD source, editable 3D assets, and development tools. Downloading or cloning the repository gives you source code; build it yourself to produce an executable. For a ready-to-play version, use the game ZIP from Releases above.
+
+Start with **[BUILDING.md](BUILDING.md)**. The game project is in [`OpenTTD-15.3/OpenTTD-15.3`](OpenTTD-15.3/OpenTTD-15.3), and the asset and packaging scripts are in [`tools`](tools).
 
 ## Controls
 
@@ -78,4 +84,4 @@ The zip includes a `build-info.json` file; attaching it helps identify the exact
 
 ## Credits and licence
 
-Built on [OpenTTD](https://www.openttd.org), the open-source transport simulation game, and its [OpenGFX](https://github.com/OpenTTD/OpenGFX) graphics. OpenTTD is licensed under the GNU General Public License v2. Licence notices for OpenTTD, OpenGFX and the included libraries are in the zip (`COPYING.md`, `README.md` and the `licenses` folder).
+Built on [OpenTTD](https://www.openttd.org), the open-source transport simulation game, and its [OpenGFX](https://github.com/OpenTTD/OpenGFX) graphics. OpenTTD is licensed under the GNU General Public License v2; see [LICENSE](LICENSE). Additional notices are in the [source README](OpenTTD-15.3/OpenTTD-15.3/README.md). Licence notices for OpenTTD, OpenGFX and the included libraries are also in the release ZIP (`COPYING.md`, `README.md` and the `licenses` folder).

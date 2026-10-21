@@ -1,0 +1,5 @@
+renderer_3d on
+renderer_3d check
+renderer_3d coverage
+renderer_3d infrastructure
+schedule on-next-calendar-month scripts/capture10.scr

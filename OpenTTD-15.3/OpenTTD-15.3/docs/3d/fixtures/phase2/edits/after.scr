@@ -1,0 +1,6 @@
+renderer_3d clickraise 200 350
+renderer_3d check
+renderer_3d camera 90 65
+renderer_3d viewport
+screenshot normal phase2-edit-angle
+schedule on-next-calendar-month scripts/exit.scr

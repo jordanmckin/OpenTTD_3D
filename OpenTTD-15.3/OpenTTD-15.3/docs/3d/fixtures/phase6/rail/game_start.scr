@@ -1,0 +1,10 @@
+unpause
+renderer_3d on
+renderer_3d camera 0 100
+renderer_3d visibility 1 hidden
+scrollto instant 26 34
+zoomto 0
+setting gui.fast_forward_speed_limit 1000
+renderer_3d fastforward on
+start_ai Diagonal3DFixture
+schedule on-next-calendar-month scripts/capture-a.scr

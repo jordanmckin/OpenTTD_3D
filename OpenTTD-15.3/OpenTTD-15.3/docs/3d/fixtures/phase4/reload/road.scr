@@ -1,0 +1,4 @@
+screenshot phase4-tunnel-crossing
+scrollto instant 52 28
+zoomto 1
+schedule on-next-calendar-month scripts/rotated.scr

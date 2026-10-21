@@ -1,0 +1,7 @@
+renderer_3d on
+fps_wnd
+renderer_3d viewport
+screenshot viewport phase1-on
+screenshot normal size 1024 768 phase1-world
+save phase1-on
+schedule on-next-calendar-month scripts/phase1_off.scr

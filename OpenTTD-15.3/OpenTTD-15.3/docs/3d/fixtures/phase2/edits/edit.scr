@@ -1,0 +1,8 @@
+renderer_3d check
+renderer_3d clickraise 640 450
+renderer_3d raise 32 32
+renderer_3d raise 32 32
+renderer_3d inspect 32 32
+screenshot viewport phase2-raised
+save phase2-verified-edit
+schedule on-next-calendar-month scripts/after.scr

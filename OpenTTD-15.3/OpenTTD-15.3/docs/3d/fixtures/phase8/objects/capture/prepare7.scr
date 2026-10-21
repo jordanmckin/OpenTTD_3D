@@ -1,0 +1,3 @@
+scrollto instant 47 61
+renderer_3d off
+schedule on-next-calendar-month scripts/capture7.scr

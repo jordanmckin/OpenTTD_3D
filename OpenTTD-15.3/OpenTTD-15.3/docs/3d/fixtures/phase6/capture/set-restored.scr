@@ -1,0 +1,7 @@
+renderer_3d visibility 1 solid
+renderer_3d visibility 2 solid
+renderer_3d visibility 3 solid
+renderer_3d visibility 4 solid
+renderer_3d visibility 5 solid
+renderer_3d viewport
+schedule on-next-calendar-month scripts/finish.scr

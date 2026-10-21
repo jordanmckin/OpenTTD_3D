@@ -1,0 +1,1338 @@
+[
+	{
+		"key": "industry_00",
+		"model": 152,
+		"level": 2,
+		"full": 120,
+		"reduced": 104,
+		"error": 0.25019449993950166
+	},
+	{
+		"key": "industry_00",
+		"model": 153,
+		"level": 2,
+		"full": 120,
+		"reduced": 104,
+		"error": 0.25019449993950166
+	},
+	{
+		"key": "industry_00",
+		"model": 154,
+		"level": 2,
+		"full": 120,
+		"reduced": 104,
+		"error": 0.25019449993950166
+	},
+	{
+		"key": "industry_00",
+		"model": 155,
+		"level": 2,
+		"full": 120,
+		"reduced": 104,
+		"error": 0.25019449993950166
+	},
+	{
+		"key": "industry_00",
+		"model": 156,
+		"level": 2,
+		"full": 120,
+		"reduced": 104,
+		"error": 0.25019449993950166
+	},
+	{
+		"key": "industry_00",
+		"model": 157,
+		"level": 2,
+		"full": 120,
+		"reduced": 104,
+		"error": 0.25019449993950166
+	},
+	{
+		"key": "industry_01",
+		"model": 174,
+		"level": 1,
+		"full": 72,
+		"reduced": 60,
+		"error": 0.09026175658957662
+	},
+	{
+		"key": "industry_01",
+		"model": 175,
+		"level": 1,
+		"full": 84,
+		"reduced": 68,
+		"error": 0.0902577592437211
+	},
+	{
+		"key": "industry_01",
+		"model": 176,
+		"level": 1,
+		"full": 96,
+		"reduced": 80,
+		"error": 0.09028290625862377
+	},
+	{
+		"key": "industry_01",
+		"model": 177,
+		"level": 1,
+		"full": 72,
+		"reduced": 60,
+		"error": 0.09024404477809728
+	},
+	{
+		"key": "industry_01",
+		"model": 178,
+		"level": 1,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.09027247082211069
+	},
+	{
+		"key": "industry_01",
+		"model": 179,
+		"level": 1,
+		"full": 96,
+		"reduced": 84,
+		"error": 0.09024893114301721
+	},
+	{
+		"key": "industry_04",
+		"model": 228,
+		"level": 2,
+		"full": 42,
+		"reduced": 37,
+		"error": 0.290012974174725
+	},
+	{
+		"key": "industry_04",
+		"model": 229,
+		"level": 2,
+		"full": 42,
+		"reduced": 36,
+		"error": 0.3843888077495235
+	},
+	{
+		"key": "industry_04",
+		"model": 230,
+		"level": 2,
+		"full": 42,
+		"reduced": 37,
+		"error": 0.3426818243352494
+	},
+	{
+		"key": "industry_04",
+		"model": 231,
+		"level": 2,
+		"full": 42,
+		"reduced": 36,
+		"error": 0.38632864436609776
+	},
+	{
+		"key": "industry_05",
+		"model": 252,
+		"level": 2,
+		"full": 42,
+		"reduced": 30,
+		"error": 0.38497719527019725
+	},
+	{
+		"key": "industry_05",
+		"model": 253,
+		"level": 2,
+		"full": 42,
+		"reduced": 30,
+		"error": 0.4409401161682464
+	},
+	{
+		"key": "industry_05",
+		"model": 254,
+		"level": 2,
+		"full": 42,
+		"reduced": 32,
+		"error": 0.3366375870796845
+	},
+	{
+		"key": "industry_05",
+		"model": 255,
+		"level": 2,
+		"full": 42,
+		"reduced": 33,
+		"error": 0.3806458042875501
+	},
+	{
+		"key": "industry_11",
+		"model": 340,
+		"level": 2,
+		"full": 84,
+		"reduced": 74,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 341,
+		"level": 2,
+		"full": 84,
+		"reduced": 74,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 342,
+		"level": 2,
+		"full": 84,
+		"reduced": 74,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 343,
+		"level": 2,
+		"full": 84,
+		"reduced": 74,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 348,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 349,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 350,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 351,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 372,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 373,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 374,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "industry_11",
+		"model": 375,
+		"level": 2,
+		"full": 84,
+		"reduced": 72,
+		"error": 0.40021031236706917
+	},
+	{
+		"key": "train_000",
+		"model": 540,
+		"level": 1,
+		"full": 2348,
+		"reduced": 1741,
+		"error": 0.2448589462905455
+	},
+	{
+		"key": "train_008",
+		"model": 541,
+		"level": 1,
+		"full": 3282,
+		"reduced": 2376,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_009",
+		"model": 542,
+		"level": 1,
+		"full": 3066,
+		"reduced": 2422,
+		"error": 0.2738503243191937
+	},
+	{
+		"key": "train_011",
+		"model": 543,
+		"level": 1,
+		"full": 2358,
+		"reduced": 1868,
+		"error": 0.251930014102411
+	},
+	{
+		"key": "train_012",
+		"model": 544,
+		"level": 1,
+		"full": 2358,
+		"reduced": 1868,
+		"error": 0.251930014102411
+	},
+	{
+		"key": "train_013",
+		"model": 545,
+		"level": 1,
+		"full": 2464,
+		"reduced": 1932,
+		"error": 0.2731608030468844
+	},
+	{
+		"key": "train_014",
+		"model": 546,
+		"level": 1,
+		"full": 2788,
+		"reduced": 2052,
+		"error": 0.2731608030468844
+	},
+	{
+		"key": "train_022",
+		"model": 547,
+		"level": 1,
+		"full": 2612,
+		"reduced": 2058,
+		"error": 0.2731608030468844
+	},
+	{
+		"key": "train_023",
+		"model": 548,
+		"level": 1,
+		"full": 2650,
+		"reduced": 2106,
+		"error": 0.251930014102411
+	},
+	{
+		"key": "train_025",
+		"model": 549,
+		"level": 1,
+		"full": 2636,
+		"reduced": 2106,
+		"error": 0.251930014102411
+	},
+	{
+		"key": "train_025",
+		"model": 549,
+		"level": 2,
+		"full": 2636,
+		"reduced": 1886,
+		"error": 0.5727242090951263
+	},
+	{
+		"key": "train_026",
+		"model": 550,
+		"level": 1,
+		"full": 2636,
+		"reduced": 2128,
+		"error": 0.251930014102411
+	},
+	{
+		"key": "train_026",
+		"model": 550,
+		"level": 2,
+		"full": 2636,
+		"reduced": 1888,
+		"error": 0.5210935687834896
+	},
+	{
+		"key": "train_027",
+		"model": 551,
+		"level": 1,
+		"full": 2202,
+		"reduced": 1768,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_028",
+		"model": 552,
+		"level": 1,
+		"full": 1994,
+		"reduced": 1576,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_029",
+		"model": 553,
+		"level": 1,
+		"full": 1902,
+		"reduced": 1508,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_029",
+		"model": 554,
+		"level": 1,
+		"full": 2046,
+		"reduced": 1652,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_030",
+		"model": 555,
+		"level": 1,
+		"full": 2238,
+		"reduced": 1745,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_031",
+		"model": 556,
+		"level": 1,
+		"full": 2040,
+		"reduced": 1630,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_032",
+		"model": 557,
+		"level": 1,
+		"full": 1962,
+		"reduced": 1568,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_033",
+		"model": 558,
+		"level": 1,
+		"full": 1834,
+		"reduced": 1428,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_033",
+		"model": 559,
+		"level": 1,
+		"full": 1978,
+		"reduced": 1572,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_033",
+		"model": 559,
+		"level": 2,
+		"full": 1978,
+		"reduced": 1404,
+		"error": 0.4201734396363658
+	},
+	{
+		"key": "train_034",
+		"model": 560,
+		"level": 1,
+		"full": 1902,
+		"reduced": 1508,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_034",
+		"model": 561,
+		"level": 1,
+		"full": 2298,
+		"reduced": 1856,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_035",
+		"model": 562,
+		"level": 1,
+		"full": 1862,
+		"reduced": 1468,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_035",
+		"model": 563,
+		"level": 1,
+		"full": 2006,
+		"reduced": 1612,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_035",
+		"model": 563,
+		"level": 2,
+		"full": 2006,
+		"reduced": 1444,
+		"error": 0.4296453399444448
+	},
+	{
+		"key": "train_036",
+		"model": 564,
+		"level": 1,
+		"full": 1742,
+		"reduced": 1348,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_036",
+		"model": 565,
+		"level": 1,
+		"full": 2456,
+		"reduced": 1906,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_036",
+		"model": 565,
+		"level": 2,
+		"full": 2456,
+		"reduced": 1652,
+		"error": 0.5839873585476135
+	},
+	{
+		"key": "train_037",
+		"model": 566,
+		"level": 1,
+		"full": 2462,
+		"reduced": 2068,
+		"error": 0.270597633125736
+	},
+	{
+		"key": "train_054",
+		"model": 567,
+		"level": 1,
+		"full": 904,
+		"reduced": 730,
+		"error": 0.22360960140513225
+	},
+	{
+		"key": "train_054",
+		"model": 567,
+		"level": 2,
+		"full": 904,
+		"reduced": 654,
+		"error": 0.44865898363172535
+	},
+	{
+		"key": "train_055",
+		"model": 568,
+		"level": 1,
+		"full": 922,
+		"reduced": 758,
+		"error": 0.22360960140513225
+	},
+	{
+		"key": "train_055",
+		"model": 568,
+		"level": 2,
+		"full": 922,
+		"reduced": 542,
+		"error": 0.5159302492582725
+	},
+	{
+		"key": "train_060",
+		"model": 573,
+		"level": 1,
+		"full": 956,
+		"reduced": 857,
+		"error": 0.25128351200347665
+	},
+	{
+		"key": "train_063",
+		"model": 577,
+		"level": 2,
+		"full": 696,
+		"reduced": 614,
+		"error": 0.4068408489072391
+	},
+	{
+		"key": "train_066",
+		"model": 583,
+		"level": 1,
+		"full": 1174,
+		"reduced": 1018,
+		"error": 0.15025732238048237
+	},
+	{
+		"key": "train_066",
+		"model": 583,
+		"level": 2,
+		"full": 1174,
+		"reduced": 862,
+		"error": 0.5839873585476135
+	},
+	{
+		"key": "train_084",
+		"model": 585,
+		"level": 1,
+		"full": 1320,
+		"reduced": 926,
+		"error": 0.2629126947827225
+	},
+	{
+		"key": "train_084",
+		"model": 585,
+		"level": 2,
+		"full": 1320,
+		"reduced": 704,
+		"error": 0.5836050222615505
+	},
+	{
+		"key": "train_085",
+		"model": 586,
+		"level": 1,
+		"full": 1160,
+		"reduced": 794,
+		"error": 0.2387404997060247
+	},
+	{
+		"key": "train_085",
+		"model": 586,
+		"level": 2,
+		"full": 1160,
+		"reduced": 560,
+		"error": 0.5590601345596231
+	},
+	{
+		"key": "train_086",
+		"model": 587,
+		"level": 1,
+		"full": 942,
+		"reduced": 758,
+		"error": 0.3479133589610845
+	},
+	{
+		"key": "train_086",
+		"model": 587,
+		"level": 2,
+		"full": 942,
+		"reduced": 566,
+		"error": 0.6642696499615084
+	},
+	{
+		"key": "train_087",
+		"model": 588,
+		"level": 1,
+		"full": 942,
+		"reduced": 752,
+		"error": 0.264563443009808
+	},
+	{
+		"key": "train_087",
+		"model": 588,
+		"level": 2,
+		"full": 942,
+		"reduced": 558,
+		"error": 0.5048908558711955
+	},
+	{
+		"key": "road_000",
+		"model": 589,
+		"level": 2,
+		"full": 1062,
+		"reduced": 801,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_001",
+		"model": 590,
+		"level": 2,
+		"full": 1082,
+		"reduced": 821,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_003",
+		"model": 591,
+		"level": 2,
+		"full": 992,
+		"reduced": 734,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_007",
+		"model": 592,
+		"level": 2,
+		"full": 1420,
+		"reduced": 1129,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_007",
+		"model": 593,
+		"level": 2,
+		"full": 1540,
+		"reduced": 1203,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_008",
+		"model": 594,
+		"level": 2,
+		"full": 1560,
+		"reduced": 1240,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_008",
+		"model": 595,
+		"level": 2,
+		"full": 1680,
+		"reduced": 1318,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_009",
+		"model": 596,
+		"level": 2,
+		"full": 1360,
+		"reduced": 1076,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_009",
+		"model": 597,
+		"level": 2,
+		"full": 1480,
+		"reduced": 1150,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_010",
+		"model": 598,
+		"level": 2,
+		"full": 1358,
+		"reduced": 1071,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_011",
+		"model": 599,
+		"level": 2,
+		"full": 1498,
+		"reduced": 1182,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_012",
+		"model": 600,
+		"level": 2,
+		"full": 1298,
+		"reduced": 1018,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_016",
+		"model": 601,
+		"level": 1,
+		"full": 1626,
+		"reduced": 1392,
+		"error": 0.2448589462905453
+	},
+	{
+		"key": "road_016",
+		"model": 601,
+		"level": 2,
+		"full": 1626,
+		"reduced": 1109,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_017",
+		"model": 602,
+		"level": 1,
+		"full": 1766,
+		"reduced": 1522,
+		"error": 0.2448589462905453
+	},
+	{
+		"key": "road_017",
+		"model": 602,
+		"level": 2,
+		"full": 1766,
+		"reduced": 1220,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_018",
+		"model": 603,
+		"level": 1,
+		"full": 1566,
+		"reduced": 1358,
+		"error": 0.2448589462905453
+	},
+	{
+		"key": "road_018",
+		"model": 603,
+		"level": 2,
+		"full": 1566,
+		"reduced": 1056,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_019",
+		"model": 604,
+		"level": 2,
+		"full": 1508,
+		"reduced": 1221,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_020",
+		"model": 605,
+		"level": 2,
+		"full": 1648,
+		"reduced": 1332,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_021",
+		"model": 606,
+		"level": 2,
+		"full": 1448,
+		"reduced": 1168,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_022",
+		"model": 607,
+		"level": 2,
+		"full": 1438,
+		"reduced": 1139,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_023",
+		"model": 608,
+		"level": 2,
+		"full": 1578,
+		"reduced": 1250,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_024",
+		"model": 609,
+		"level": 2,
+		"full": 1378,
+		"reduced": 1086,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_025",
+		"model": 610,
+		"level": 2,
+		"full": 1380,
+		"reduced": 1089,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_025",
+		"model": 611,
+		"level": 2,
+		"full": 1500,
+		"reduced": 1161,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_026",
+		"model": 612,
+		"level": 2,
+		"full": 1520,
+		"reduced": 1200,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_026",
+		"model": 613,
+		"level": 2,
+		"full": 1640,
+		"reduced": 1272,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_027",
+		"model": 614,
+		"level": 2,
+		"full": 1320,
+		"reduced": 1036,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_027",
+		"model": 615,
+		"level": 2,
+		"full": 1440,
+		"reduced": 1108,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_028",
+		"model": 616,
+		"level": 2,
+		"full": 1376,
+		"reduced": 1093,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_028",
+		"model": 617,
+		"level": 2,
+		"full": 1968,
+		"reduced": 1685,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_029",
+		"model": 618,
+		"level": 2,
+		"full": 1516,
+		"reduced": 1204,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_029",
+		"model": 619,
+		"level": 2,
+		"full": 2108,
+		"reduced": 1796,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_030",
+		"model": 620,
+		"level": 2,
+		"full": 1316,
+		"reduced": 1040,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_030",
+		"model": 621,
+		"level": 2,
+		"full": 1908,
+		"reduced": 1632,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_031",
+		"model": 622,
+		"level": 2,
+		"full": 1460,
+		"reduced": 1169,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_031",
+		"model": 623,
+		"level": 2,
+		"full": 1580,
+		"reduced": 1241,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_033",
+		"model": 624,
+		"level": 2,
+		"full": 1400,
+		"reduced": 1116,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_033",
+		"model": 625,
+		"level": 2,
+		"full": 1520,
+		"reduced": 1188,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_034",
+		"model": 626,
+		"level": 2,
+		"full": 1296,
+		"reduced": 1013,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_034",
+		"model": 627,
+		"level": 1,
+		"full": 1772,
+		"reduced": 1570,
+		"error": 0.23198960287295026
+	},
+	{
+		"key": "road_034",
+		"model": 627,
+		"level": 2,
+		"full": 1772,
+		"reduced": 1281,
+		"error": 0.5555616659439144
+	},
+	{
+		"key": "road_035",
+		"model": 628,
+		"level": 2,
+		"full": 1436,
+		"reduced": 1124,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_035",
+		"model": 629,
+		"level": 1,
+		"full": 1912,
+		"reduced": 1700,
+		"error": 0.23198960287295026
+	},
+	{
+		"key": "road_035",
+		"model": 629,
+		"level": 2,
+		"full": 1912,
+		"reduced": 1392,
+		"error": 0.5555616659439144
+	},
+	{
+		"key": "road_036",
+		"model": 630,
+		"level": 2,
+		"full": 1236,
+		"reduced": 960,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_036",
+		"model": 631,
+		"level": 1,
+		"full": 1712,
+		"reduced": 1536,
+		"error": 0.23198960287295026
+	},
+	{
+		"key": "road_036",
+		"model": 631,
+		"level": 2,
+		"full": 1712,
+		"reduced": 1228,
+		"error": 0.5555616659439144
+	},
+	{
+		"key": "road_037",
+		"model": 632,
+		"level": 2,
+		"full": 1898,
+		"reduced": 1611,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_038",
+		"model": 633,
+		"level": 2,
+		"full": 2038,
+		"reduced": 1722,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "road_039",
+		"model": 634,
+		"level": 2,
+		"full": 1838,
+		"reduced": 1558,
+		"error": 0.5127817105593994
+	},
+	{
+		"key": "ship_000",
+		"model": 635,
+		"level": 2,
+		"full": 1972,
+		"reduced": 1546,
+		"error": 0.5025689580378141
+	},
+	{
+		"key": "ship_002",
+		"model": 636,
+		"level": 2,
+		"full": 1728,
+		"reduced": 1496,
+		"error": 0.4979525188283834
+	},
+	{
+		"key": "ship_007",
+		"model": 638,
+		"level": 2,
+		"full": 1724,
+		"reduced": 1496,
+		"error": 0.4957547396605141
+	},
+	{
+		"key": "aircraft_000",
+		"model": 639,
+		"level": 1,
+		"full": 1002,
+		"reduced": 844,
+		"error": 0.1727721877939782
+	},
+	{
+		"key": "aircraft_001",
+		"model": 640,
+		"level": 1,
+		"full": 1270,
+		"reduced": 816,
+		"error": 0.31106141606831816
+	},
+	{
+		"key": "aircraft_002",
+		"model": 641,
+		"level": 1,
+		"full": 1218,
+		"reduced": 852,
+		"error": 0.23747492492886815
+	},
+	{
+		"key": "aircraft_004",
+		"model": 643,
+		"level": 1,
+		"full": 1010,
+		"reduced": 638,
+		"error": 0.3049275176284546
+	},
+	{
+		"key": "aircraft_005",
+		"model": 644,
+		"level": 1,
+		"full": 1474,
+		"reduced": 1106,
+		"error": 0.2745574311003804
+	},
+	{
+		"key": "aircraft_008",
+		"model": 645,
+		"level": 1,
+		"full": 1458,
+		"reduced": 1288,
+		"error": 0.16721871152658313
+	},
+	{
+		"key": "aircraft_012",
+		"model": 646,
+		"level": 1,
+		"full": 1250,
+		"reduced": 986,
+		"error": 0.21728979708866994
+	},
+	{
+		"key": "aircraft_013",
+		"model": 647,
+		"level": 1,
+		"full": 2246,
+		"reduced": 1632,
+		"error": 0.28957133582993333
+	},
+	{
+		"key": "aircraft_027",
+		"model": 648,
+		"level": 1,
+		"full": 1266,
+		"reduced": 1128,
+		"error": 0.22538128252587963
+	},
+	{
+		"key": "aircraft_028",
+		"model": 649,
+		"level": 1,
+		"full": 1018,
+		"reduced": 776,
+		"error": 0.26438077144258676
+	},
+	{
+		"key": "aircraft_028",
+		"model": 649,
+		"level": 2,
+		"full": 1018,
+		"reduced": 618,
+		"error": 0.566536198737111
+	},
+	{
+		"key": "aircraft_030",
+		"model": 650,
+		"level": 1,
+		"full": 994,
+		"reduced": 690,
+		"error": 0.2616835367666577
+	},
+	{
+		"key": "aircraft_030",
+		"model": 650,
+		"level": 2,
+		"full": 994,
+		"reduced": 580,
+		"error": 0.6193092391492797
+	},
+	{
+		"key": "aircraft_031",
+		"model": 651,
+		"level": 1,
+		"full": 2122,
+		"reduced": 1616,
+		"error": 0.23443462596294312
+	},
+	{
+		"key": "aircraft_032",
+		"model": 652,
+		"level": 1,
+		"full": 2134,
+		"reduced": 1382,
+		"error": 0.23590842157207703
+	},
+	{
+		"key": "aircraft_038",
+		"model": 653,
+		"level": 1,
+		"full": 884,
+		"reduced": 596,
+		"error": 0.3023540004699587
+	},
+	{
+		"key": "aircraft_038",
+		"model": 653,
+		"level": 2,
+		"full": 884,
+		"reduced": 420,
+		"error": 0.6743673456939308
+	},
+	{
+		"key": "aircraft_039",
+		"model": 654,
+		"level": 1,
+		"full": 986,
+		"reduced": 884,
+		"error": 0.1701884701972461
+	},
+	{
+		"key": "effect_diesel_smoke",
+		"model": 934,
+		"level": 2,
+		"full": 60,
+		"reduced": 36,
+		"error": 0.49736489216355567
+	},
+	{
+		"key": "effect_diesel_smoke",
+		"model": 935,
+		"level": 2,
+		"full": 60,
+		"reduced": 52,
+		"error": 0.38771719961828793
+	},
+	{
+		"key": "effect_electric_spark",
+		"model": 940,
+		"level": 1,
+		"full": 36,
+		"reduced": 32,
+		"error": 0.2367027906812095
+	},
+	{
+		"key": "effect_electric_spark",
+		"model": 940,
+		"level": 2,
+		"full": 36,
+		"reduced": 26,
+		"error": 0.5586583511775968
+	},
+	{
+		"key": "effect_explosion_large",
+		"model": 958,
+		"level": 2,
+		"full": 280,
+		"reduced": 244,
+		"error": 0.5136268691839178
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 971,
+		"level": 2,
+		"full": 140,
+		"reduced": 122,
+		"error": 0.5209452832239578
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 973,
+		"level": 2,
+		"full": 260,
+		"reduced": 166,
+		"error": 0.48834126029255115
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 974,
+		"level": 1,
+		"full": 280,
+		"reduced": 250,
+		"error": 0.256850852326658
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 974,
+		"level": 2,
+		"full": 280,
+		"reduced": 166,
+		"error": 0.49985495094114685
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 978,
+		"level": 2,
+		"full": 180,
+		"reduced": 160,
+		"error": 0.4640156853751282
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 979,
+		"level": 2,
+		"full": 200,
+		"reduced": 166,
+		"error": 0.4941182219760675
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 980,
+		"level": 2,
+		"full": 200,
+		"reduced": 156,
+		"error": 0.48834126029255115
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 981,
+		"level": 2,
+		"full": 220,
+		"reduced": 150,
+		"error": 0.5252350654956297
+	},
+	{
+		"key": "effect_explosion_small",
+		"model": 982,
+		"level": 2,
+		"full": 240,
+		"reduced": 164,
+		"error": 0.48834126029255115
+	}
+]

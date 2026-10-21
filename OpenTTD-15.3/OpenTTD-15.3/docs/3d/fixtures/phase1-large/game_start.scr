@@ -1,0 +1,7 @@
+unpause
+scrollto instant 34 33
+zoomto 3
+renderer_3d on
+renderer_3d viewport
+fps_wnd
+schedule on-next-calendar-month scripts/capture.scr

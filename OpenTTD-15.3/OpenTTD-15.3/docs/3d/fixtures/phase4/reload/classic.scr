@@ -1,0 +1,5 @@
+screenshot phase4-rotated
+renderer_3d off
+scrollto instant 32 33
+zoomto 2
+schedule on-next-calendar-month scripts/restored.scr

@@ -1,0 +1,5 @@
+screenshot phase4-restored
+save phase4-reloaded
+setting gui.fast_forward_speed_limit 500
+renderer_3d fastforward on
+schedule on-next-calendar-month scripts/quit.scr

@@ -1,0 +1,3 @@
+renderer_3d highlight off
+screenshot phase3-picked-build
+schedule on-next-calendar-month scripts/remove.scr

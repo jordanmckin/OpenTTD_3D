@@ -1,0 +1,4 @@
+screenshot phase4-bridges-underpasses
+scrollto instant 36 31
+zoomto 1
+schedule on-next-calendar-month scripts/road.scr

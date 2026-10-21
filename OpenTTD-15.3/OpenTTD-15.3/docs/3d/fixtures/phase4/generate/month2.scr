@@ -1,0 +1,5 @@
+renderer_3d infrastructure
+zoomto 2
+scrollto instant 29 33
+screenshot phase4-month2
+schedule on-next-calendar-month scripts/month3.scr

@@ -1,0 +1,3 @@
+save phase4-generated
+screenshot phase4-generated
+schedule on-next-calendar-month scripts/generate-quit.scr

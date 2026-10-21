@@ -1,0 +1,3 @@
+renderer_3d check
+renderer_3d coverage
+schedule on-next-calendar-month scripts/quit.scr

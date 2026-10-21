@@ -1,0 +1,8 @@
+setting gui.show_finances false
+unpause
+setting gui.fast_forward_speed_limit 2000
+renderer_3d fastforward on
+start_ai Effects3DFixture
+scrollto instant 70 76
+zoomto 0
+schedule on-next-calendar-month scripts/capture1.scr

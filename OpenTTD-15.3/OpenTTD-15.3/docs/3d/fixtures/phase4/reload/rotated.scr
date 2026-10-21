@@ -1,0 +1,5 @@
+screenshot phase4-perpendicular
+renderer_3d camera 90 80
+scrollto instant 32 33
+zoomto 2
+schedule on-next-calendar-month scripts/classic.scr

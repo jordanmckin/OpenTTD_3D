@@ -1,0 +1,4 @@
+renderer_3d coverage
+scrollto instant 70 73
+zoomto 1
+schedule on-next-calendar-month scripts/scan2.scr

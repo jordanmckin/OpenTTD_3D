@@ -1,0 +1,8 @@
+renderer_3d wireframe off
+renderer_3d camera 0 100
+zoomto 3
+scrollto instant 32 32
+renderer_3d check
+fps
+screenshot normal phase2-final-filled
+schedule on-next-calendar-month scripts/exit.scr

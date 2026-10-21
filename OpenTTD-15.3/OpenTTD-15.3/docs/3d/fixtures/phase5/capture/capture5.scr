@@ -1,0 +1,3 @@
+screenshot phase5-classic
+renderer_3d assets
+schedule on-next-calendar-month scripts/setup6.scr

@@ -1,0 +1,7 @@
+screenshot phase4-classic
+renderer_3d on
+renderer_3d camera 0 100
+scrollto instant 32 33
+zoomto 2
+renderer_3d fastforward off
+schedule on-next-calendar-month scripts/final.scr

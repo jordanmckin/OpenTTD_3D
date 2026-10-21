@@ -1,0 +1,56 @@
+# Trailer City shot list, played by tools/trailer/play.ps1.
+#
+# Each line is: <seconds> <console command>. Seconds count from when the save has loaded.
+# Lines with the same time run in the order written. Anything after # is a comment.
+#
+# Trailer commands (presentation only, nothing in the game changes):
+#   film zoom <level> <seconds>            glide to a zoom level: 0 closest, 2 normal, 4+ far out
+#   film camera <yaw> <tilt> <seconds>     glide to a 3D angle: yaw 0..360, tilt 40..180 (100 = classic)
+#   film orbit <+yaw> <+tilt> <seconds>    turn the camera at a steady speed
+#   film pan <x> <y> <seconds>             glide the view to a tile
+#   film follow <vehicle>|off              keep the view centred on a vehicle
+#   film ride <vehicle> cab|chase          full-screen ride; film ride off to return
+#   film ui off|on                         hide or show toolbars, windows and the mouse cursor
+# Ordinary commands work too, for instant cuts:
+#   renderer_3d on|off    scrollto instant <x> <y>    zoomto <level>    renderer_3d camera <yaw> <tilt>
+#
+# Vehicles: 813 Timber Freight 1 (steam train through the tunnel), 869 City Goods 1 (truck into Lewisworth).
+# Places: Lewisworth 936 175, freight district 898 147, Whitdon 627 78, wide view 915 158.
+
+# --- Pre-roll: 3D builds once out of shot, then the classic view settles. Trim the video here. ---
+0.0   film ui off
+0.0   scrollto instant 936 175
+0.0   zoomto 2
+1.5   renderer_3d off
+
+# --- 3.0 TRIM IN: the classic game, half a second ---
+3.5   renderer_3d on
+
+# --- Into 3D: push in while the camera swings round ---
+4.0   film zoom 1 2.5
+4.0   film camera 30 80 3.0
+7.0   film orbit 40 0 4.0
+
+# --- Cut: above the timber train, then down into it ---
+11.0  zoomto 1
+11.0  renderer_3d camera 315 75
+11.0  film follow 813
+11.5  film zoom 0 1.5
+13.5  film ride 813 chase
+17.0  film ride 813 cab
+
+# --- Cut: the goods truck heading into town ---
+21.0  film follow off
+21.0  film ride 869 chase
+22.8  film ride 869 cab
+
+# --- Cut: close on the city, pull back for the wide reveal ---
+27.0  film ride off
+27.0  renderer_3d camera 0 100
+27.0  zoomto 0
+27.0  scrollto instant 936 175
+27.2  film zoom 3 4.5
+27.2  film camera 45 110 4.5
+32.0  film orbit 20 0 4.0
+
+# --- 36.0 TRIM OUT ---

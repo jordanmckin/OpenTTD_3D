@@ -1,0 +1,6 @@
+script .runtime/phase2/views-console.log
+unpause
+scrollto instant 32 32
+zoomto 3
+renderer_3d on
+schedule on-next-calendar-month scripts/view0.scr

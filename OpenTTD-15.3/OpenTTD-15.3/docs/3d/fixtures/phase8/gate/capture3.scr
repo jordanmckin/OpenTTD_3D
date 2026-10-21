@@ -1,0 +1,3 @@
+screenshot phase8-truck-c
+renderer_3d assets
+schedule on-next-calendar-month scripts/quit.scr

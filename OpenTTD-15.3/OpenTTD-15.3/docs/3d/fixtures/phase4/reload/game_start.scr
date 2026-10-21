@@ -1,0 +1,9 @@
+renderer_3d on
+renderer_3d camera 0 100
+renderer_3d infrastructure
+unpause
+scrollto instant 29 33
+zoomto 2
+setting gui.fast_forward_speed_limit 500
+renderer_3d fastforward on
+schedule on-next-calendar-month scripts/rail.scr

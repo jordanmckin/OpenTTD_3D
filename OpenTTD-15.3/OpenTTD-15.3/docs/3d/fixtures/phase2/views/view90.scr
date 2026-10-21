@@ -1,0 +1,3 @@
+renderer_3d camera 90 65
+screenshot normal phase2-east-low
+schedule on-next-calendar-month scripts/view180.scr

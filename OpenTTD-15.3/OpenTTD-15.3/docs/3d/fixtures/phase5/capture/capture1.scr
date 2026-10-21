@@ -1,0 +1,3 @@
+screenshot phase5-mine
+renderer_3d assets
+schedule on-next-calendar-month scripts/setup2.scr

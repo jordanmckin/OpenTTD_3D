@@ -1,0 +1,7 @@
+setting gui.show_finances false
+unpause
+setting gui.fast_forward_speed_limit 2000
+renderer_3d fastforward on
+start_ai Effects3DFixture
+renderer_3d on
+schedule on-next-calendar-month scripts/wait1.scr

@@ -1,0 +1,4 @@
+screenshot viewport phase2-edited
+save phase2-edited
+renderer_3d check
+schedule on-next-calendar-month scripts/exit.scr

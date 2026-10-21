@@ -1,0 +1,4 @@
+renderer_3d camera 0 100
+scrollto instant 100 22
+zoomto 0
+schedule on-next-calendar-month scripts/capture3.scr

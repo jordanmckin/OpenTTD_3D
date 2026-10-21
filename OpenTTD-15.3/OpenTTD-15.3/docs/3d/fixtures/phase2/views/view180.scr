@@ -1,0 +1,3 @@
+renderer_3d camera 180 100
+screenshot normal phase2-reverse
+schedule on-next-calendar-month scripts/view270.scr

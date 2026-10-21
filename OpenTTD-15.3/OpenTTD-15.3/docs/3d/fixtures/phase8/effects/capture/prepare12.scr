@@ -1,0 +1,4 @@
+scrollto instant 23 110
+zoomto 1
+renderer_3d camera 135 55
+schedule on-next-calendar-month scripts/capture12.scr

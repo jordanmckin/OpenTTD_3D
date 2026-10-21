@@ -1,0 +1,5 @@
+zoomto 2
+scrollto instant 30 31
+screenshot viewport phase1-pan
+save phase1-pan
+schedule on-next-calendar-month scripts/exit.scr

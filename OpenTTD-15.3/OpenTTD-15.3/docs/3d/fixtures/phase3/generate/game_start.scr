@@ -1,0 +1,7 @@
+renderer_3d on
+scrollto instant 28 27
+zoomto 3
+start_ai Railway3DFixture
+setting gui.fast_forward_speed_limit 500
+renderer_3d fastforward on
+schedule on-next-calendar-month scripts/month2.scr

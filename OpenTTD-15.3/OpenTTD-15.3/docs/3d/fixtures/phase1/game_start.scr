@@ -1,0 +1,4 @@
+unpause
+scrollto instant 32 32
+zoomto 2
+schedule on-next-calendar-month scripts/phase1_on.scr

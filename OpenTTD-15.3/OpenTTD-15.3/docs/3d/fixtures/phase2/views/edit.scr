@@ -1,0 +1,5 @@
+renderer_3d camera 0 100
+renderer_3d raise 32 32
+renderer_3d raise 32 32
+renderer_3d raise 32 32
+schedule on-next-calendar-month scripts/edited.scr

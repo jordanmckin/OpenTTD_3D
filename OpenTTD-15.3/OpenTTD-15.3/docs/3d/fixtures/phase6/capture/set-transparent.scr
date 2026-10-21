@@ -1,0 +1,6 @@
+renderer_3d visibility 1 transparent
+renderer_3d visibility 2 transparent
+renderer_3d visibility 3 transparent
+renderer_3d visibility 4 transparent
+renderer_3d visibility 5 transparent
+schedule on-next-calendar-month scripts/hidden.scr

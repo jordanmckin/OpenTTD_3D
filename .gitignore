@@ -1,0 +1,31 @@
+﻿/Godot/
+/build/
+/.tools/
+/.runtime/
+/.tmp/
+
+# Regenerable sprite slices (tools/3d_assets/slice_sprites.py)
+sprites_pulled/sliced/
+
+# Regenerable Phase 8 reference images (tools/3d_assets/build_references.py)
+OpenTTD-15.3/OpenTTD-15.3/assets/3d/reference/
+
+# Blender save backups
+*.blend1
+
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# Generated trailer profile: local settings, secrets, downloaded content and captures
+/artifacts/trailer-city/profile/
+
+# Generated images omitted from the public source snapshot
+/OpenTTD-15.3/OpenTTD-15.3/assets/3d/previews/
+/OpenTTD-15.3/OpenTTD-15.3/docs/3d/evidence/
+
+# Local IDE and alternative build output folders
+/.vs/
+/.idea/
+/out/
+/vcpkg_installed/

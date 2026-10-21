@@ -1,0 +1,9 @@
+unpause
+renderer_3d on
+scrollto instant 37 37
+zoomto 2
+setting gui.fast_forward_speed_limit 500
+renderer_3d fastforward on
+renderer_3d highlight off
+renderer_3d preview 35 35 40 40
+schedule on-next-calendar-month scripts/capture.scr
