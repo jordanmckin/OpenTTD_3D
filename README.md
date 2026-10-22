@@ -2,6 +2,9 @@
 
 **A full 3D view for OpenTTD.** Switch between the classic view and 3D at any time, rotate and tilt the camera, keep building at any angle, and ride along in your trains and trucks.
 
+**Web build playable alpha at : https://meadbee.itch.io/openttd-3d**
+
+
 [![Watch the trailer](https://img.youtube.com/vi/pnWwmM3cDPk/maxresdefault.jpg)](https://www.youtube.com/watch?v=pnWwmM3cDPk)
 
 ▶️ **[Watch the trailer on YouTube](https://www.youtube.com/watch?v=pnWwmM3cDPk)**
